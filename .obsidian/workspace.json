@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "1b268b58f9692c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18574d3f8abe77a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa863920df35022e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "f3d550a60545a02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Training Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Training Models"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fa8522441f65585",
+    "type": "split",
+    "children": [
+      {
+        "id": "609166b564a8f669",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac63128e8eb98319",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "02cbb4355f612c7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2711fbf64c33f106",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7497089f4275a8e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "feaa98a9d1a7ca7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5edc5b6f60d63e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/Training Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Training Models"
+            }
+          },
+          {
+            "id": "c1bf926d70d6d968",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concepts/Training Models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Training Models"
+            }
+          },
+          {
+            "id": "520eed960634397f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c693a599dbf82f51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concepts/Training Models.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Training Models"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f3d550a60545a02a",
+  "lastOpenFiles": [
+    "Concepts/Training Models.md",
+    "Untitled.canvas",
+    "Libraries",
+    "Concepts",
+    "Welcome.md"
+  ]
+}
